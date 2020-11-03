@@ -1,0 +1,3 @@
+﻿  boucle.c
+C:\Users\Administrateur\source\repos\TP2\exo 4\boucle.c(10,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+  exo 4.vcxproj -> C:\Users\Administrateur\source\repos\TP2\Debug\exo 4.exe
